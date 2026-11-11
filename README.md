@@ -25,3 +25,4 @@ A small practice repository for learning GitHub workflows and unlocking profile 
 ## Notes
 
 This is a learning sandbox, so changes here are small and experimental.
+First co-authored PR merged ✅
