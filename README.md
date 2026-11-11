@@ -27,3 +27,6 @@ A small practice repository for learning GitHub workflows and unlocking profile 
 This is a learning sandbox, so changes here are small and experimental.
 First co-authored PR merged ✅
 Second PR merged for Pull Shark 🦈.
+
+## Status
+Status: 🟢 Active learning repo
