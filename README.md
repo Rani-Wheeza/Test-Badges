@@ -30,3 +30,7 @@ Second PR merged for Pull Shark 🦈.
 
 ## Status
 Status: 🟢 Active learning repo
+
+## Earned? 
+with ✅ or ⏳ for each badge. 
+Commit message: Track earned achievements in table
